@@ -1,1 +1,1 @@
-# QuizMaster
+The Utterly Weird Quizzing Software
