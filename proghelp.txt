@@ -1,0 +1,33 @@
+QuizMaster PRO Help File
+
+
+--------------------------------
+
+
+
+
+Q. Why should I use QuizMaster PRO?
+
+A. There's isn't much else available which is free for this kind of stuff.
+
+
+
+
+Q. What's the 'Normal User Mode'?
+
+A. That's where normal players can enter their details and play the question bank. User can't log back in under the same name though (as is the case with most games), and need to enter details again the next time.
+
+
+
+Q. What's the 'Administrator Mode'?
+
+A. That's where the geeky sort of folk can login and make changes to databases - of both users and questions. The program comes with a preset password, which you can obtain by contacting the authors; which can be replaced by your own password file.
+
+
+
+Q. What is the 'Quizmaster Mode'?
+
+A. The quizmaster mode is available after authentication, and allows an administrator to view the correct answer along with the question and its options. It is intended to be used in a setting where say a quizmaster needs both questions and answers at the same time.
+
+
+Contact me at - 1415himanshu1415@gmail.com

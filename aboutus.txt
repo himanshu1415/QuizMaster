@@ -1,0 +1,11 @@
+	QuizMaster PRO v1 :: The Utterly Weird Quizzing Software	
+
+	------------------------------------------
+
+	
+
+Copyright (C) Himanshu Dhaka. 
+
+Created by Himanshu Dhaka, B.Tech 3rd Year, DIT University, Dehradun.
+
+To obtain the source code for the program, please send a mail to 1415himanshu1415@gmail.com
